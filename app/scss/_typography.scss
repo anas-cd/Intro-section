@@ -1,3 +1,8 @@
+* {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 1rem;
+}
+
 h1, h2, h3 {
     margin-top: 0px;
 }
@@ -5,4 +10,8 @@ h1, h2, h3 {
 h1 {
     text-transform: uppercase;
     color: $black;
+}
+
+p {
+    font-size: 1.125rem;
 }
