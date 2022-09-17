@@ -61,6 +61,6 @@ got a link for both methods in the resources
 
 ## Author
 
-<!-- - Website - [anas ali](https://www.your-site.com) -->
+- Website - [dev.anasali.info](https://dev.anasali.info/)
 - Frontend Mentor - [@anas-cd](https://www.frontendmentor.io/profile/anas-cd)
 - Twitter - [@AnasCd](https://twitter.com/AnasCd)
